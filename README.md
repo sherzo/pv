@@ -8,7 +8,7 @@ Aplicación de linea de comandos para manejar clientes *CRUD*
 - Listar Clientes
 - Eliminar Clientes
 
-Aplicación realizada en el curso de python 2018.
+Aplicación realizada en el curso de python 2018 de platzi.
 
 ## Instalación
 
